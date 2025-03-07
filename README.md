@@ -4,13 +4,13 @@ A comprehensive Terraform module for creating and managing AWS CloudWatch alarms
 
 ## Features
 
-- Create standard CloudWatch alarms with single metrics
-- Create advanced alarms using CloudWatch metric math expressions
-- Built-in validation to ensure valid configuration
-- Support for percentage-based monitoring (e.g., storage utilization percentage)
-- Flexible alarm actions, evaluation periods, and thresholds
-- Consistent tagging across your alarms
-- Comprehensive output structure for integration with other modules
+* ⏰ Create standard CloudWatch alarms with single metrics
+* 🧮 Create advanced alarms using CloudWatch metric math expressions
+* ✅ Built-in validation to ensure valid configuration
+* 📊 Support for percentage-based monitoring (e.g., storage utilization percentage)
+* 🔔 Flexible alarm actions, evaluation periods, and thresholds
+* 🏷️ Consistent tagging across your alarms
+* 📤 Comprehensive output structure for integration with other modules
 
 ## Usage
 
